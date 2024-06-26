@@ -87,11 +87,11 @@ Uma estimativa inicial de custos deve ser feita considerando o número de escola
 
 <b> <h2> Por: </h2> </b>
 <b> <ul> 
-  <li> Analyce Luz; </li>
-  <li> Débora Grobb; </li>
-  <li> Eduarda Farias; </li>
-  <li> Gabriela Machado; </li>
-  <li> Miguel Bajerski. </li>
+  <li> Analyce Luz; nº 02</li>
+  <li> Débora Grobb; nº 7</li>
+  <li> Eduarda Farias; nº 8</li>
+  <li> Gabriela Machado; nº 35</li>
+  <li> Miguel Bajerski. nº 28</li>
 </b> </ul>
 
 </body>
